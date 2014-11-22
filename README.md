@@ -33,8 +33,8 @@ Jars
 5. Property Annotation
    - Group Id       - com.hariram
    - Artifact Id    - propertyannotation
-   - Latest version - 0.2
-   - Gradle input   - compile("com.hariram:propertyannotation:0.2")
+   - Latest version - 0.3
+   - Gradle input   - compile("com.hariram:propertyannotation:0.3")
    
 
 License
