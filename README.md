@@ -21,8 +21,8 @@ Jars
 3. DB Annotation
    - Group Id       - com.hariram
    - Artifact Id    - dbannotation
-   - Latest version - 0.3
-   - Gradle input   - compile("com.hariram:dbannotation:0.3")
+   - Latest version - 0.4
+   - Gradle input   - compile("com.hariram:dbannotation:0.4")
 
 4. Dynamic Factory
    - Group Id       - com.hariram
