@@ -9,7 +9,7 @@ Jars
 1. Annotation
    - Group Id       - com.hariram
    - Artifact Id    - annotation
-   - Latest version - 0.4
+   - Latest version - 0.7
    - Gradle input   - compile("com.hariram:annotation:0.4")
 
 2. Commonutil
@@ -21,7 +21,7 @@ Jars
 3. DB Annotation
    - Group Id       - com.hariram
    - Artifact Id    - dbannotation
-   - Latest version - 0.4
+   - Latest version - 0.6
    - Gradle input   - compile("com.hariram:dbannotation:0.4")
 
 4. Dynamic Factory
@@ -33,7 +33,7 @@ Jars
 5. Property Annotation
    - Group Id       - com.hariram
    - Artifact Id    - propertyannotation
-   - Latest version - 0.3
+   - Latest version - 0.4
    - Gradle input   - compile("com.hariram:propertyannotation:0.3")
    
 
