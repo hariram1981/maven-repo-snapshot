@@ -10,7 +10,7 @@ Jars
    - Group Id       - com.hariram
    - Artifact Id    - annotation
    - Latest version - 0.7
-   - Gradle input   - compile("com.hariram:annotation:0.4")
+   - Gradle input   - compile("com.hariram:annotation:0.7")
 
 2. Commonutil
    - Group Id       - com.hariram
@@ -22,7 +22,7 @@ Jars
    - Group Id       - com.hariram
    - Artifact Id    - dbannotation
    - Latest version - 0.6
-   - Gradle input   - compile("com.hariram:dbannotation:0.4")
+   - Gradle input   - compile("com.hariram:dbannotation:0.6")
 
 4. Dynamic Factory
    - Group Id       - com.hariram
@@ -34,8 +34,13 @@ Jars
    - Group Id       - com.hariram
    - Artifact Id    - propertyannotation
    - Latest version - 0.4
-   - Gradle input   - compile("com.hariram:propertyannotation:0.3")
+   - Gradle input   - compile("com.hariram:propertyannotation:0.4")
    
+6. Log4J Annotation
+   - Group Id       - com.hariram
+   - Artifact Id    - log4jannotation
+   - Latest version - 0.1
+   - Gradle input   - compile("com.hariram:log4jannotation:0.1")
 
 License
 ==========
