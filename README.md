@@ -42,6 +42,12 @@ Jars
    - Latest version - 0.1
    - Gradle input   - compile("com.hariram:log4jannotation:0.1")
 
+7. Cache
+   - Group Id       - com.hariram
+   - Artifact Id    - cache
+   - Latest version - 1.0
+   - Gradle input   - compile("com.hariram:cache:1.0")
+
 License
 ==========
 The MIT License (MIT)
