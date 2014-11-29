@@ -45,8 +45,8 @@ Jars
 7. Cache
    - Group Id       - com.hariram
    - Artifact Id    - cache
-   - Latest version - 1.0
-   - Gradle input   - compile("com.hariram:cache:1.0")
+   - Latest version - 1.1
+   - Gradle input   - compile("com.hariram:cache:1.1")
 
 License
 ==========
