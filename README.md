@@ -9,8 +9,8 @@ Jars
 1. Annotation
    - Group Id       - com.hariram
    - Artifact Id    - annotation
-   - Latest version - 0.8
-   - Gradle input   - compile("com.hariram:annotation:0.8")
+   - Latest version - 0.9
+   - Gradle input   - compile("com.hariram:annotation:0.9")
 
 2. Commonutil
    - Group Id       - com.hariram
