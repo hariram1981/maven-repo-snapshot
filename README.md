@@ -39,14 +39,20 @@ Jars
 6. Log4J Annotation
    - Group Id       - com.hariram
    - Artifact Id    - log4jannotation
-   - Latest version - 0.1
-   - Gradle input   - compile("com.hariram:log4jannotation:0.1")
+   - Latest version - 0.3
+   - Gradle input   - compile("com.hariram:log4jannotation:0.3")
 
 7. Cache
    - Group Id       - com.hariram
    - Artifact Id    - cache
    - Latest version - 1.1
    - Gradle input   - compile("com.hariram:cache:1.1")
+
+8. Cache Annotation
+   - Group Id       - com.hariram
+   - Artifact Id    - cacheannotation
+   - Latest version - 0.2
+   - Gradle input   - compile("com.hariram:cacheannotation:0.2")
 
 License
 ==========
