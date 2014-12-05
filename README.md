@@ -54,6 +54,12 @@ Jars
    - Latest version - 0.2
    - Gradle input   - compile("com.hariram:cacheannotation:0.2")
 
+9. Data Observer
+   - Group Id       - com.hariram
+   - Artifact Id    - dataobserver
+   - Latest version - 0.1
+   - Gradle input   - compile("com.hariram:dataobserver:0.1")
+
 License
 ==========
 The MIT License (MIT)
