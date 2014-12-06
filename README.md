@@ -51,8 +51,8 @@ Jars
 8. Cache Annotation
    - Group Id       - com.hariram
    - Artifact Id    - cacheannotation
-   - Latest version - 0.2
-   - Gradle input   - compile("com.hariram:cacheannotation:0.2")
+   - Latest version - 0.3
+   - Gradle input   - compile("com.hariram:cacheannotation:0.3")
 
 9. Data Observer
    - Group Id       - com.hariram
