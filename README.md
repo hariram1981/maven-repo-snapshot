@@ -57,8 +57,8 @@ Jars
 9. Data Observer
    - Group Id       - com.hariram
    - Artifact Id    - dataobserver
-   - Latest version - 0.2
-   - Gradle input   - compile("com.hariram:dataobserver:0.2")
+   - Latest version - 0.3
+   - Gradle input   - compile("com.hariram:dataobserver:0.3")
 
 License
 ==========
