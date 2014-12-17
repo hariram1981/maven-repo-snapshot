@@ -27,8 +27,8 @@ Jars
 4. Dynamic Factory
    - Group Id       - com.hariram
    - Artifact Id    - dynamicfactory
-   - Latest version - 0.2
-   - Gradle input   - compile("com.hariram:dynamicfactory:0.2")
+   - Latest version - 1.0
+   - Gradle input   - compile("com.hariram:dynamicfactory:1.0")
 
 5. Property Annotation
    - Group Id       - com.hariram
