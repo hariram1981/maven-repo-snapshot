@@ -33,8 +33,8 @@ Jars
 5. Property Annotation
    - Group Id       - com.hariram
    - Artifact Id    - propertyannotation
-   - Latest version - 0.7
-   - Gradle input   - compile("com.hariram:propertyannotation:0.7")
+   - Latest version - 1.0
+   - Gradle input   - compile("com.hariram:propertyannotation:1.0")
    
 6. Log4J Annotation
    - Group Id       - com.hariram
