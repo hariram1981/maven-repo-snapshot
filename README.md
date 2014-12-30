@@ -60,6 +60,13 @@ Jars
    - Latest version - 0.3
    - Gradle input   - compile("com.hariram:dataobserver:0.3")
 
+10. PDF Writer
+   - Group Id       - com.hariram
+   - Artifact Id    - pdfwriter
+   - Latest version - 0.1
+   - Gradle input   - compile("com.hariram:pdfwriter:0.1")
+
+
 License
 ==========
 The MIT License (MIT)
