@@ -63,8 +63,8 @@ Jars
 10. PDF Writer
    - Group Id       - com.hariram
    - Artifact Id    - pdfwriter
-   - Latest version - 0.3
-   - Gradle input   - compile("com.hariram:pdfwriter:0.3")
+   - Latest version - 0.4
+   - Gradle input   - compile("com.hariram:pdfwriter:0.4")
 
 
 License
